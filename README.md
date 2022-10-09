@@ -1,2 +1,0 @@
-# Crow-Bot
-Discord Bot
